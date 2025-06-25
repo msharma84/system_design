@@ -10,13 +10,13 @@ should do (e.g., store user data, process orders), non-functional requirements d
 
 These include areas like:
 
-**Performance** 
-**Scalability** 
-**Availability** 
-**Reliability** 
-**Security** 
-**Maintainability** 
-**Observability** 
+1. **Performance** 
+2. **Scalability** 
+3. **Availability** 
+4. **Reliability** 
+5. **Security** 
+6. **Maintainability** 
+7. **Observability** 
 
 Ignoring non-functional requirements for system design considerations is a red flag. Engineers who focus only on data models and APIs but overlook scalability or fault tolerance
 often miss what makes systems work at scale.
